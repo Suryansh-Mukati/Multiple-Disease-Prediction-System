@@ -1,0 +1,1 @@
+streamlit run "D:\coding\minar2\project\multiple-disease-prediction-streamlit-app-main\temp.py"
